@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Xcode (this is a SwiftPM package; no checked-in project)
+*.xcodeproj
+DerivedData/
+xcuserdata/
+
+# Package.resolved IS committed on purpose: manawell-agent builds executables,
+# so pinning exact dependency versions makes builds reproducible.
