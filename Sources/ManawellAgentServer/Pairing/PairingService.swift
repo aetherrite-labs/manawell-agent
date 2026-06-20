@@ -1,6 +1,6 @@
 //
 //  PairingService.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import Foundation

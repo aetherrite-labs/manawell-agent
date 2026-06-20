@@ -1,12 +1,13 @@
 //
 //  AgentServer.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import Foundation
 import HTTPTypes
 import Hummingbird
 import ManawellCore
+import ManawellUsageCollectors
 import NIOCore
 
 /// The agent's HTTP surface — two routes:

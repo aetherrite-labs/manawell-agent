@@ -1,6 +1,6 @@
 //
 //  DemoUsageCollector.swift
-//  ManawellAgentCore
+//  ManawellUsageCollectors
 //
 
 import ManawellCore

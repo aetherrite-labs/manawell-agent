@@ -1,7 +1,7 @@
 import Foundation
 import Testing
 import ManawellCore
-@testable import ManawellAgentCore
+@testable import ManawellAgentServer
 
 @Test("Resolver prefers a Tailscale IPv4 when the CLI returns one")
 func resolverPrefersTailscale() {

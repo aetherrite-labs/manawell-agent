@@ -1,6 +1,6 @@
 //
 //  ClaudeUsageClient.swift
-//  ManawellAgentCore
+//  ManawellUsageCollectors
 //
 //  Calls Anthropic's OAuth usage endpoint the same way Claude Code's `/usage` does.
 //  See claude-usage-recipe: GET /api/oauth/usage, bearer + `anthropic-beta` + a

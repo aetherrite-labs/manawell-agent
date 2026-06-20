@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import ManawellAgentCore
+import ManawellAgentServer
 import ManawellCore
 
 @MainActor

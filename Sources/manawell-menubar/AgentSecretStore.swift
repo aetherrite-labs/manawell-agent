@@ -4,7 +4,7 @@
 //
 
 import Foundation
-import ManawellAgentCore
+import ManawellAgentServer
 
 /// Persists the bearer secret so a paired phone keeps working across agent restarts.
 /// v1 uses UserDefaults; a later build can move this to the keychain.

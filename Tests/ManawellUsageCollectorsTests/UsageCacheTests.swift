@@ -1,7 +1,7 @@
 import Foundation
 import Testing
 import ManawellCore
-@testable import ManawellAgentCore
+@testable import ManawellUsageCollectors
 
 /// A collector whose output and failure are controllable, for exercising the cache.
 private actor StubCollector: UsageCollector {

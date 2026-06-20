@@ -1,6 +1,6 @@
 //
 //  ClaudeUsageCollector.swift
-//  ManawellAgentCore
+//  ManawellUsageCollectors
 //
 //  Turns Anthropic's OAuth usage windows into the app's UsageSnapshot contract.
 //  five_hour → "5h session", seven_day → "Weekly cap".

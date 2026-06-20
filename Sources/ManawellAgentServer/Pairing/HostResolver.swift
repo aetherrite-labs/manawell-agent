@@ -1,6 +1,6 @@
 //
 //  HostResolver.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 //  Works out the best address to advertise in the pairing QR: a Tailscale IP if the
 //  machine is on a tailnet, else the `.local` mDNS name for same-LAN use, else loopback.

@@ -1,6 +1,6 @@
 //
 //  AgentConfiguration.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import Foundation

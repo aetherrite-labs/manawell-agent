@@ -4,7 +4,7 @@
 //
 
 import AppKit
-import ManawellAgentCore
+import ManawellAgentServer
 
 /// Shows a window with the pairing QR (rendered from the same payload the CLI prints)
 /// plus the host/port/secret in selectable text.

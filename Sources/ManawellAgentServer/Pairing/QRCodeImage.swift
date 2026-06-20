@@ -1,6 +1,6 @@
 //
 //  QRCodeImage.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import CoreGraphics

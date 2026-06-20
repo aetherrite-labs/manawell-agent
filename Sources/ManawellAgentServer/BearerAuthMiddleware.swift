@@ -1,6 +1,6 @@
 //
 //  BearerAuthMiddleware.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import HTTPTypes

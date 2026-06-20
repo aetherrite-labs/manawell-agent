@@ -7,7 +7,7 @@
 //
 
 import AppKit
-import ManawellAgentCore
+import ManawellAgentServer
 
 let env = ProcessInfo.processInfo.environment
 let port = env["MANAWELL_AGENT_PORT"].flatMap(Int.init) ?? 8787

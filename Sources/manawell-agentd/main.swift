@@ -3,7 +3,7 @@
 //  manawell-agentd
 //
 //  Headless entrypoint + dev harness for the Manawell agent. The menu-bar app will
-//  reuse ManawellAgentCore the same way; this binary is the way to run, pair, and curl
+//  reuse ManawellAgentServer the same way; this binary is the way to run, pair, and curl
 //  the agent without Xcode.
 //
 //  Modes:
@@ -13,7 +13,7 @@
 //
 
 import Foundation
-import ManawellAgentCore
+import ManawellAgentServer
 import ManawellCore
 
 let env = ProcessInfo.processInfo.environment

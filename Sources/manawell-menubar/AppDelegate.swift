@@ -4,7 +4,7 @@
 //
 
 import AppKit
-import ManawellAgentCore
+import ManawellAgentServer
 import ManawellCore
 
 @MainActor

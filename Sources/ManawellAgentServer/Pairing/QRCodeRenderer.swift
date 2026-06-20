@@ -1,6 +1,6 @@
 //
 //  QRCodeRenderer.swift
-//  ManawellAgentCore
+//  ManawellAgentServer
 //
 
 import Foundation

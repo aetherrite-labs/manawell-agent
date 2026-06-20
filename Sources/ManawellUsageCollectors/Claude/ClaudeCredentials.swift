@@ -1,6 +1,6 @@
 //
 //  ClaudeCredentials.swift
-//  ManawellAgentCore
+//  ManawellUsageCollectors
 //
 //  Reads the OAuth credentials that Claude Code stores locally, so the agent can call
 //  Anthropic's usage endpoint as "Claude Code". Source order: env override → macOS

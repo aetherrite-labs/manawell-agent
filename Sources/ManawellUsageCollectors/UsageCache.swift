@@ -1,6 +1,6 @@
 //
 //  UsageCache.swift
-//  ManawellAgentCore
+//  ManawellUsageCollectors
 //
 
 import Foundation
